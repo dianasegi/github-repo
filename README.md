@@ -1,7 +1,8 @@
 # github-repo                               project
 
-                                             writting the heading you use the #tag then list words jst press enter twice
+                                             
 diana segi
+                                         writting the heading use the #tag and making lists of the words press enter twice
 
 
 dianasegi@gmail.com
