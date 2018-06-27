@@ -1,9 +1,8 @@
-# github-repo                               project
+# github-repo               |                project
 
                                              
 diana segi
                                          writting the heading use the #tag and making lists of the words press enter twice
-
 
 dianasegi@gmail.com
 
